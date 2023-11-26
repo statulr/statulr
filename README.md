@@ -6,6 +6,16 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=statulr&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=statulr&theme=vue-dark&hide_border=false)<br/>
+### Setup
+```
+OS: Arch Linux
+WM/DE: Hyprland
+Terminal: kitty
+CPU: Intel I7-9700K
+GPU: Nvidia RTX 3060 LHR
+Memory: 16 GB
+```
+<https://user-images.githubusercontent.com/106020512/235429801-e8b8dae2-c1ad-4e23-9aa2-b1edb6cabe99.mp4>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
