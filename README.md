@@ -8,7 +8,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=statulr&theme=vue-dark&hide_border=false)<br/>
 ### Setup
 ```
-OS: Arch Linux/Dual-Boot
+OS: Arch Linux/Windows (Dual-Boot), Arch for Programming, Windows for Gaming
 WM/DE: Hyprland/DWM (I switch around a lot)
 Terminal: kitty
 CPU: Intel I7-9700K
